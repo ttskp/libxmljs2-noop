@@ -8,5 +8,9 @@
   },
   "license": "MIT",
   "description": "",
-  "files": []
+  "files": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttskp/libxmljs2-noop.git"
+  }
 }
