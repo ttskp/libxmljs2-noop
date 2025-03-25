@@ -1,0 +1,12 @@
+{
+  "name": "@ttskp/libxmljs2-noop",
+  "version": "1.0.0",
+  "author": {
+    "name": "tts Knowledge Products GmbH",
+    "email": "info@tt-s.com",
+    "url": "https://tt-s.com"
+  },
+  "license": "MIT",
+  "description": "",
+  "files": []
+}
